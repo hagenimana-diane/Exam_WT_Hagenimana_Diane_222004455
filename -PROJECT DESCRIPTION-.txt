@@ -1,0 +1,5 @@
+-PROJECT DESCRIPTION-
+HOME REPAIR AND MAINTAINENCE SERVICES PLATFORM
+this is a project contain ten tables users, services, servicesprovider, bookings, ratings,....
+this will help the user to book the services that he/she want us to repair different home services such us plumbing,electrical,..... it contain register where user register himself to use our platform and find home where you can contact us to book our services.
+

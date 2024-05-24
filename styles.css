@@ -1,0 +1,106 @@
+/* Custom CSS for index.php */
+
+/* Body style */
+body {
+  padding-top: 56px;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; /* Light gray background */
+}
+
+/* Navigation bar style */
+.navbar {
+  background-color: #343a40 !important; /* Dark gray background */
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #ffffff !important; /* White text */
+}
+
+/* Jumbotron style */
+.jumbotron {
+  background-color: #007bff; /* Blue background */
+  color: #ffffff; /* White text */
+  padding: 2rem;
+  border-radius: 0.3rem;
+}
+
+/* Call-to-action button style */
+.btn-primary {
+  background-color: #ffc107; /* Yellow background */
+  border-color: #ffc107; /* Yellow border */
+}
+
+.btn-primary:hover {
+  background-color: #e0a800; /* Darker yellow background on hover */
+  border-color: #e0a800; /* Darker yellow border on hover */
+}
+
+/* Footer style */
+.footer {
+  background-color: #343a40; /* Dark gray background */
+  color: #ffffff; /* White text */
+  padding: 1rem 0;
+}
+/* Custom CSS for login.php, register.php, and dashboard.php */
+
+/* Form container style */
+.form-container {
+  max-width: 400px;
+  margin: auto;
+  background-color: #ffffff; /* White background */
+  padding: 20px;
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+/* Form input style */
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="password"] {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ced4da; /* Light gray border */
+  border-radius: 0.2rem;
+}
+
+/* Submit button style */
+.form-group input[type="submit"] {
+  padding: 0.5rem 1rem;
+  background-color: #007bff; /* Blue background */
+  border: none;
+  color: #ffffff; /* White text */
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+
+.form-group input[type="submit"]:hover {
+  background-color: #0056b3; /* Darker blue background on hover */
+}
+
+/* Error message style */
+.error-message {
+  color: #dc3545; /* Red text */
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+/* Dashboard content style */
+.dashboard-content {
+  padding: 20px;
+  background-color: #ffffff; /* White background */
+  margin-top: 20px;
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
